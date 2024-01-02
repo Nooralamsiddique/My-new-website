@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: o;
+    background-color: rgb(84, 252, 252);
+}
+div{
+    height: 96px;
+    background-color: rgb(169, 247, 90);
+    
+
+}
+.one{
+    font-size: 50px;
+    text-align: center;
+    background-color: chartreuse;
+    height: 96px;
+    width: 1280px;
+    margin: 0 auto;
+}
+.two{
+    background-color: black;
+    height: 20px;
+    width: 1480px;
+    margin: o auto;
+
+    
+}
